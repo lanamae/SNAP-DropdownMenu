@@ -46,7 +46,10 @@
   margin-left: 1000px;
 }
 .main ._container {
-  padding: 30px 80px;
+  padding: 30px 0px;
+}
+.main ._container ._left {
+  padding: 0px 50px;
 }
 .main ._container ._left ._title {
   color: #000;
