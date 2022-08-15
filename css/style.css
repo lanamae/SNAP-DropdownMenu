@@ -23,10 +23,10 @@
   margin-bottom: 5px;
 }
 .main .toggleMenu {
-  display: block;
+  display: none;
   width: 3000px;
   height: 100vh;
-  margin-left: 0px;
+  margin-left: 1000px;
   margin-top: -100px;
   position: fixed;
   padding: 20px;
@@ -40,7 +40,7 @@
 }
 .main .toggleMenu.show {
   background: #000;
-  margin-left: 5px;
+  margin-left: 100px;
 }
 .main .toggleMenu.hide {
   margin-left: 1000px;
