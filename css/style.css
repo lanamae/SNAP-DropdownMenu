@@ -7,7 +7,7 @@
 .main {
   width: 100%;
   height: 100vh;
-  background: blue;
+  background: rgb(253, 248, 230);
 }
 .main ._toggleBar {
   margin-top: 20px;
@@ -61,6 +61,6 @@
   font-size: 18px;
 }
 .main ._container ._right ._imgDesktop {
-  width: 390px;
+  width: 380px;
   height: 520px;
 }/*# sourceMappingURL=style.css.map */
